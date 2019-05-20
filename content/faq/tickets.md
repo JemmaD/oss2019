@@ -7,10 +7,10 @@ layout      : FAQ
 We currently offer two ways to buy tickets to the Open Security Summit. 
 
 ### Eventbrite
-You can order up to 10 tickets through Eventbrite via our [tickets page](https://open-security-summit.org/tickets/). Eventbrite charges a booking fee of arounf 5-6% of the ticket price. 
+You can order up to 10 tickets through Eventbrite via our [tickets page](https://open-security-summit.org/tickets/). Eventbrite charges a booking fee of around 5-6% of the ticket price. 
 
 ### Invoices
-If you'd like to pay by invoice, peales email info@opensecsummit.org with your full name, billing address and ticket requirements. 
+If you'd like to pay by invoice, please email info@opensecsummit.org with your full name, billing address and ticket requirements. 
 
 #### Ticket FAQs
 
