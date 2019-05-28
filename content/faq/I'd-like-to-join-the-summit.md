@@ -12,11 +12,11 @@ You will find information on buying tickets [here](https://open-security-summit.
 
 ### Where can I stay?
 
-All on-site guests will be allocated accommodation. Unforunately, we are unable to accept ticket orders with accommodation after 26 May 2019.
+All on-site guests will be allocated accommodation. Unfortunately, we are unable to accept ticket orders with accommodation after 26 May 2019.
 
-If you need to secure your own accomodation please follow this [link](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1FCAEoggJCAlhYSDNYBGhQiAEBmAEuuAEHyAEM2AEB6AEB-AELkgIBeagCAw&sid=4e9c171fbb85ef8c929b518e15dbc1dd&checkin_month=6&checkin_monthday=3&checkin_year=2018&checkout_month=6&checkout_monthday=4&checkout_year=2018&class_interval=1&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_rooms=1&place_id=ChIJsTVe1NWyd0gRyxjetK_hmUw&place_id_lat=52.0277097&place_id_lon=-0.5325043000000278&postcard=0&room1=A%2CA&sb_price_type=total&src_elem=sb&ss=Center%20Parcs%20Woburn%20Forest%2C%20Millbrook%20Road%2C%20Bedford%2C%20UK&ss_all=0&ssb=empty&sshis=0&ssne=Center%20Parcs%20Woburn%20Forest%2C%20Millbrook%20Road%2C%20Bedford%2C%20UK&ssne_untouched=Center%20Parcs%20Woburn%20Forest%2C%20Millbrook%20Road%2C%20Bedford%2C%20UK&=&order=distance_from_landmark&dst_landmark=gp)
+If you need to secure your own accommodation, please follow this [link](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1FCAEoggJCAlhYSDNYBGhQiAEBmAEuuAEHyAEM2AEB6AEB-AELkgIBeagCAw&sid=4e9c171fbb85ef8c929b518e15dbc1dd&checkin_month=6&checkin_monthday=3&checkin_year=2018&checkout_month=6&checkout_monthday=4&checkout_year=2018&class_interval=1&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&no_rooms=1&place_id=ChIJsTVe1NWyd0gRyxjetK_hmUw&place_id_lat=52.0277097&place_id_lon=-0.5325043000000278&postcard=0&room1=A%2CA&sb_price_type=total&src_elem=sb&ss=Center%20Parcs%20Woburn%20Forest%2C%20Millbrook%20Road%2C%20Bedford%2C%20UK&ss_all=0&ssb=empty&sshis=0&ssne=Center%20Parcs%20Woburn%20Forest%2C%20Millbrook%20Road%2C%20Bedford%2C%20UK&ssne_untouched=Center%20Parcs%20Woburn%20Forest%2C%20Millbrook%20Road%2C%20Bedford%2C%20UK&=&order=distance_from_landmark&dst_landmark=gp)
 
-The Summit team cannot help you find off-site accomodation.
+The Summit team cannot help you find off-site accommodation.
 
 ### How can I register as a participant?
 
@@ -28,7 +28,7 @@ If you need any assistance you can reach us in Slack or find more details about 
 
 ### How do I join a team?
 
-There are the multiple teams that are represented at the Summit
+Multiple teams are represented at the Summit
 
 Please feel free to join any team marked as `community team`. See the [Teams page](https://open-security-summit.org/teams/) for details.
 
@@ -41,8 +41,8 @@ The full schedule is available [here](https://open-security-summit.org/schedule/
 
 ### Why should I join?
 Here are four excellent reasons for you to join the Summit:
-1. The summit will bring together leading figures from OWASP, security, development, government agencies and vendor companies
-2. In the working sessions you will get to tackle some of the hardest security problems we face in 2019 and create actionable solutions
+1. The Summit will bring together leading figures from OWASP, security, development, government agencies and vendor companies
+2. In the working sessions, you will get to tackle some of the hardest security problems we face in 2019 and create actionable solutions
 3. Connect with like-minded individuals who are passionate about AppSec, get chatting over breakfast, lunch or dinner, during summit activities, or at the end of summit party
 4. Take advantage of the unique summit venue at Woburn Forest Center Parcs, an environment designed for maximum geek-time, synergies and collaboration
 
@@ -71,5 +71,5 @@ Go to the venue reception desk
 Please go to the venue reception desk, if they can’t help you, they will direct you to a member of the summit team.
 
 Send email message
-If you would like to email before or during the event please contact info@opensecsummit.org.
+If you would like to email before or during the event, please contact info@opensecsummit.org.
 
